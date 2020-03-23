@@ -1,8 +1,17 @@
 # TI 电子设计大赛学习笔记
 
-You can use the [editor on GitHub](https://github.com/x615/x615.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 运算放大器的选型指南
+1.运放的功能 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+运放+外部分立器件= 
+
+放大器：改变信号的幅度 
+
+缓冲器：隔离输入与输出，阻抗匹配（高输入阻抗，低输出阻抗） 
+
+滤波器：滤除额外频率分量（噪声，干扰）
+各运算功能：积分，微分，乘法，对数。
+![图片注释](http://img02.tooopen.com/images/20141231/sy_78327074576.jpg "cefc1e178a82b901637d211b708da9773812efc2")
 
 ### Markdown
 
