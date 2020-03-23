@@ -1,7 +1,5 @@
 # TI 电子设计大赛学习笔记
 
-## 由王木木和他的小伙伴谢太浪及三水同学共同完成
-
 You can use the [editor on GitHub](https://github.com/x615/x615.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -37,3 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 由王木木和他的小伙伴谢太浪及三水同学共同完成
