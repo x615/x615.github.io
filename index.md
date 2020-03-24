@@ -49,12 +49,7 @@ Precision Lab Training :https://training.ti.com/ti-precision-labs-op-amps
 
 TINA-TI:http://www.ti.com.cn/tool.cn/tina-ti 
  
- <p align="center"> 
- <img src="https://github.com/x615/x615.github.io/blob/%E5%9B%BE%E7%89%87/%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99.png" width="600" height="360"/> 
-  <p align="center">  
-    <em>命名规则</em> 
-    </p>
-    </p>  
+![图片注释](https://github.com/x615/x615.github.io/blob/%E5%9B%BE%E7%89%87/%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99.png)
   
 <p align="center"> 
   <img src="https://github.com/x615/x615.github.io/blob/%E5%9B%BE%E7%89%87/%E9%80%89%E5%9E%8B%E6%8C%87%E5%8D%97.png" width="600" height="360"/> 
