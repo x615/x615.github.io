@@ -57,7 +57,7 @@ TINA-TI: http://www.ti.com.cn/tool.cn/tina-ti
      </p>   
   
 <p align="center"> 
-  <img src="https://github.com/x615/x615.github.io/blob/master/%E9%80%89%E5%9E%8B%E6%8C%87%E5%8D%97.png" width="600" height="360"/> 
+  <img src="https://x615/x615.github.io/%E9%80%89%E5%9E%8B%E6%8C%87%E5%8D%97.png" width="600" height="360"/> 
   <p align="center">  
     <em>选择指南</em> 
     </p>
