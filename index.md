@@ -45,9 +45,9 @@
 
 相关网址 www.ti.com.cn 或者www.ti.com 
 
-Precision Lab Training :https://training.ti.com/ti-precision-labs-op-amps
+Precision Lab Training: https://training.ti.com/ti-precision-labs-op-amps
 
-TINA-TI:http://www.ti.com.cn/tool.cn/tina-ti 
+TINA-TI: http://www.ti.com.cn/tool.cn/tina-ti 
     
  <p align="center"> 
   <img src="https://github.com/x615/x615.github.io/blob/master/%E5%91%BD%E5%90%8D%E8%A7%84%E5%88%99.png" width="600" height="360"/> 
