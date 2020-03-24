@@ -13,37 +13,40 @@
 
 各运算功能：积分，微分，乘法，对数。 
 
-![图片注释](http://img02.tooopen.com/images/20141231/sy_78327074576.jpg "cefc1e178a82b901637d211b708da9773812efc2")
+2.运放关注的指标 
+输入端口相关指标： 
+_ 输入阻抗 
 
-### Markdown
+— 带宽BW  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+— 偏移电压  
 
-```markdown
-Syntax highlighted code block
+— 偏置电流  
 
-# Header 1
-## Header 2
-### Header 3
+— 输入电压范围  
 
-- Bulleted
-- List
+— 噪声特性 
 
-1. Numbered
-2. List
+输出端口的相关指标 
 
-**Bold** and _Italic_ and `Code` text
+— 输出驱动能力 
 
-[Link](url) and ![Image](src)
-```
+— 输出电压范围 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+— 压摆率  
 
-### Jekyll Themes
+供电相关指标
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/x615/x615.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+— 供电压范围
+
+— 静态电流 
+
+
+
+
+
+
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-## 由王木木和他的小伙伴谢太浪及三水同学共同完成
