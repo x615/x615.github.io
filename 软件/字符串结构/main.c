@@ -3,7 +3,7 @@
 
 void main()
 {
-    HString str1, str2, str3;
+    HString str1, str2;
     str1.ch = NULL;
     str2.ch = NULL;
     strAssign(&str1, "hello");
